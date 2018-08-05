@@ -1,4 +1,7 @@
 # r-isucon
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/r-isucon.svg)](https://www.guardrails.io)
+
 Recruit Technologies が主催と準備を行って開催した、R-ISUCONです。
 
 ## ローカル環境の立ち上げ方
